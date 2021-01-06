@@ -1,0 +1,2 @@
+[2020-12-14 21:49:18,395] - [session.platform] - [ERROR] - [access_token_updater] - [_do_update] - [Error 401 - invalid_client] Invalid Application Credential.
+[2020-12-14 21:50:06,714] - [session.platform] - [ERROR] - [access_token_updater] - [_do_update] - [Error 401 - invalid_client] Invalid Application Credential.
