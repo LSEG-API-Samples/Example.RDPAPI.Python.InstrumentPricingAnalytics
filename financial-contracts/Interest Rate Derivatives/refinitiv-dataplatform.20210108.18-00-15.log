@@ -1,0 +1,2 @@
+[2021-01-08 18:18:01,594] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description
+[2021-01-08 18:42:35,006] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error -1 - ReadTimeout] b''

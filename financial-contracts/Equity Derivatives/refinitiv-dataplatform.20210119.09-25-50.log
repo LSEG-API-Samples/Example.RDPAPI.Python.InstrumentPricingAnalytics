@@ -1,0 +1,4 @@
+[2021-01-19 09:51:11,452] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description
+[2021-01-25 18:29:15,291] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description
+[2021-01-25 18:29:43,944] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description
+[2021-01-25 18:42:47,972] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description
