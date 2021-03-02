@@ -1,3 +1,0 @@
-[2021-02-25 20:02:02,077] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description
-[2021-02-26 04:00:56,717] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error -1 - ReadTimeout] b''
-[2021-03-02 18:03:00,548] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description

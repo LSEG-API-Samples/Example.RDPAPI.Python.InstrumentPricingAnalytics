@@ -1,2 +1,0 @@
-[2021-01-11 18:06:58,769] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error 400 - invalid_grant] empty error description
-[2021-01-12 04:01:25,255] - [session.platform] - [ERROR] - [refresh_token_updater] - [_do_update] - [Error -1 - ConnectError] b'[Errno 11001] getaddrinfo failed'
